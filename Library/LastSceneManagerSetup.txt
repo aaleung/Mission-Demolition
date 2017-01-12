@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Yoshi/Documents/Space SHMUP Prototype/Assets/_Scene_0.unity
+  isLoaded: 1
+  isActive: 1
